@@ -1,0 +1,11 @@
+{
+    "name": "allure-report",
+    "version": "1.0.0",
+    "main": "server.js",
+    "dependencies": {
+        "http-server": "^0.13.0"
+    },
+    "scripts": {
+        "start": "node server.js"
+    }
+}
